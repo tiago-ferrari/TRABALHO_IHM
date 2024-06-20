@@ -623,11 +623,6 @@ h3 {
     padding-left: 630px;
     bottom: 0;
     height: 100%;
-    
-    max-width: 1800px;/* Largura desejada */
-    height: auto; /* Altura ajustada automaticamente para manter a proporção */
-    display: none;
-
   }
 
   .logo {
@@ -691,12 +686,6 @@ h3 {
     
     bottom: 0;
     height: 100%;
-
-    
-  max-width: 1800px;/* Largura desejada */
-  height: auto; /* Altura ajustada automaticamente para manter a proporção */
-  display: none;
-
   }
 
   .logo {
